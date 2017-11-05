@@ -13,7 +13,7 @@
 # limitations under the License.
 # ==============================================================================
 """ This file is a slight modification from the source file, Tensorflow-For-Poets-2/label_image.py,
-    read from line 145, to modify the path where the specific files.
+    read from line 145, to modify where you path in.
 """
 from __future__ import absolute_import
 from __future__ import division
